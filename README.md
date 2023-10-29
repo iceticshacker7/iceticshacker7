@@ -23,7 +23,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshrai7) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/divyanshrai7/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/justcoding14)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/divyansh_rai_cs1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-43A047?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/iceandcfvoo)
 
