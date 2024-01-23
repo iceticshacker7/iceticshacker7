@@ -4,7 +4,7 @@
     <p>Contact: 📧 rdivyansh00@gmail.com | ☎️ +91 62637 44949</p>
     <p align="center">
         I'm Divyansh Rai, an enthusiastic and dedicated software engineer with a passion for building innovative solutions. I specialize in full-stack development and have a strong foundation in a range of programming languages including C/C++, Python, and JavaScript. My expertise extends to web technologies such as HTML5, CSS, and React.js, and I have hands-on experience with databases like MongoDB and SQL/MySQL.
-        Throughout my academic journey at Gyan Ganga Institute of Technology & Sciences, I've maintained an impressive CGPA of 8.72/10, reflecting my commitment to excellence. I've been recognized as a Microsoft Engage '22 Finalist and achieved a 5-star rating in C++ and Data Structures and Algorithms on HackerRank. I've also been acknowledged as a Codechef 3-star coder with a rating of 1600+ and have successfully solved over 500 DSA problems on platforms like LeetCode and GeeksforGeeks.
+        Throughout my academic journey at Gyan Ganga Institute of Technology & Sciences, I've maintained an impressive CGPA of 8.72/10, reflecting my commitment to excellence. I've been recognized as a Microsoft Engage '22 Finalist and achieved a 5-star rating in C++ and Data Structures and Algorithms on HackerRank. I've also been acknowledged as a Codechef 3-star coder with a rating of 1600+ and have successfully solved over 500+ DSA problems on platforms like LeetCode and GeeksforGeeks.
         </p>
     </p>
     <h3>Connect with me:</h3>
