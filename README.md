@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:rdivyansh00@gmail.com"><img src="https://img.shields.io/badge/Email-rdivyansh00%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://twitter.com/divyanshrai7"><img src="https://img.shields.io/badge/Twitter-%40divyanshrai7-1DA1F2?style=flat-square&logo=twitter"></a>
+  <a href="https://twitter.com/dev_divyansh"><img src="https://img.shields.io/badge/Twitter-%40divyanshrai7-1DA1F2?style=flat-square&logo=twitter"></a>
   <a href="https://linkedin.com/in/divyanshrai7"><img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat-square&logo=Linkedin&logoColor=white"></a>
   <a href="https://leetcode.com/divyanshrai7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white"></a>
 </p>
